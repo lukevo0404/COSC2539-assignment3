@@ -3,7 +3,8 @@
 This is a phishing attack demonstration of stealing Facebook log in information.
 
 **Details:**
+Make sure you install Ngrok on the root directory (https://ngrok.com/download)
 
-host index.php locally on a port then run .\ngrok.exe http [port] to receive a public website link to your locally host website
+Host index.php locally on a port then run ```.\ngrok.exe http [port]``` to receive a public website link to your locally host website
 
-email.html contains the html format of the fake email, replace the existing ngrok link in their with your link
+The file email.html contains the html format of the fake email, replace the existing ngrok link in their with your link
