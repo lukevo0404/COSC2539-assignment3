@@ -1,5 +1,7 @@
 # COSC2539 - Assignment 3
 
+## Strictly for educational purpose, you are entirely responsible for any consequences
+
 This is a phishing attack demonstration of stealing Facebook log in information.
 
 **Details:**
